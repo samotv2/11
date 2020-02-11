@@ -1,8 +1,9 @@
-Samoilava Tatsiana
-phone: +375293-318-708
+#Samoilava Tatsiana  
+phone: +375293-318-708  
 e-mail:samotv82@gmail.com
 
-I want to be a programmer, I'm interesting front-end now. I like positive, clever people. I'm happy, if i will become member of developers community
+I want to be a programmer, I'm interesting front-end now. I like positive, clever people. I'm happy, if i will become member of developers community.  
+
 I don't have experience in HTML, CSS, JS.
 I have done some simple tasks in Java, C#, SQL.
 
@@ -10,3 +11,5 @@ I have done some simple tasks in Java, C#, SQL.
 2017-2019 ITIU BSU
 
 English A2-B1 (Pre-Intermediate - Intermediate)
+
+https://www.codewars.com/users/samotv2
