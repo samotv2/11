@@ -4,7 +4,7 @@ e-mail:samotv82@gmail.com
 
 I want to be a programmer, I'm interesting front-end now. I like positive, clever people. I'm happy, if i will become member of developers community.  
 
-I don't have experience in HTML, CSS, JS.
+I don't have experience in HTML, CSS, JS.  
 I have done some simple tasks in Java, C#, SQL.
 
 2010-2014 BSEU
